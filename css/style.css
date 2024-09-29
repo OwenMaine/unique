@@ -97,7 +97,7 @@ a:focus {
 }
 
 .sub_page .hero_area {
-  background-color: transparent; /* No background color for sub-pages */
+  background-color: #7335b7; /* No background color for sub-pages */
   min-height: auto;
   border-radius: 0;
 }

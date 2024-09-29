@@ -862,6 +862,8 @@ a:focus {
 /* end info section */
 /* footer section*/
 .footer_section {
+  background-color: #7335b7;
+  color: #ffffff;
   position: relative;
   text-align: center;
 }

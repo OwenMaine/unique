@@ -92,8 +92,8 @@ a:focus {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-          background-color: #7335b7;
-          border-radius: 0 0 350px 0;
+  background-color: #7335b7;
+  border-radius: 0 0 350px 0;
 }
 
 .sub_page .hero_area {

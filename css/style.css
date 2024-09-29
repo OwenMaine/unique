@@ -97,9 +97,12 @@ a:focus {
 }
 
 .sub_page .hero_area {
-  background-color: #7335b7; /* No background color for sub-pages */
+  background-color: transparent; /* No background color for sub-pages */
   min-height: auto;
   border-radius: 0;
+}
+.sub_page .custom_nav-container .navbar-nav .nav-link {
+  color: #7335b7;
 }
 
 .header_section {

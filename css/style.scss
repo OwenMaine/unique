@@ -352,9 +352,11 @@ a:focus {
 .service_section {
   text-align: center;
 
-  .heading_container {
+  & .heading_container {
     align-items: center;
   }
+}
+
 
   .box {
     margin-top: 25px;

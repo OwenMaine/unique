@@ -92,17 +92,19 @@ a:focus {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  background-color: #7335b7;
-  border-radius: 0 0 350px 0;
+          background-color: #f8f9fa; /* Background color only for index page */
+          border-radius: 0 0 45px 0;
 }
 
 .sub_page .hero_area {
+  background-color: transparent; /* No background color for sub-pages */
   min-height: auto;
-  border-radius: 0 0 45px 0;
+  border-radius: 0;
 }
 
 .header_section {
   padding: 15px 0;
+  position: relative;
 }
 
 .header_section .container-fluid {
